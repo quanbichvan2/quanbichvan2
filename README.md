@@ -5,7 +5,7 @@
 [![facebook](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yunbiguan/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bích-vân-quan-5b773a214/)
 
-**🌞 Quan Bích Vân - Aka: Yun**
+**🌞 Quan Bích Vân - Nickname: Yun**
 
 ## 🚀 About Me
 - My name is Quan Bich Van, but you can call me Yun.
