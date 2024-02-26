@@ -1,37 +1,32 @@
 # Hi, I'm Yun! 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Frontend+Developer;Data+Analytics;Devops;Full-Stack+Develeloper)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Frontend+Developer;Data+Analytics;Full-Stack+Developer)](https://git.io/typing-svg)
+
 ## 🔗 Links to my social profile
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.dattran.online)
-[![facebook](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Jayzneverzz/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tran-phu-dat-526a82288/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DatTranM4)
+[![facebook](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yunbiguan/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bích-vân-quan-5b773a214/)
 
 **🌞 Quan Bích Vân - Aka: Yun**
+
 ## 🚀 About Me
 - My name is Quan Bich Van, but you can call me Yun.
 - I'm a second-year student at FPT Polytechnic College in Ho Chi Minh City, Vietnam.
 - I primarily work with C# and also have knowledge in Java.
 - I'm on the path to becoming a full-stack developer, gaining experience in C#, Java, and ReactJS along the way.
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=quanbichvan2&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=quanbichvan2&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/romankh3/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
-</p>
 
--<kbd>
-<img alt="Avatar" src="herobannerpotj.png" height="200" width="200"/>
-![quanbichvan2's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quanbichvan2&theme=radical&show_icons=true&hide_border=false&layout=compact)
-</kbd>-
 <div align='center'>
-    <kbd>
-        <img alt="Avatar" src="herobannerpotj.png" height="200" width="200"/>
-    </kbd>
+   <kbd>
+       <img alt="Avatar" src="herobannerpotj.png" height="200" width="200"/>
+   </kbd>
 </div>
 <div align='center'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quanbichvan2&theme=radical&show_icons=true&hide_border=false&layout=compact"/>
+   <a href="https://github-readme-stats.vercel.app/api?username=quanbichvan2&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=quanbichvan2&show_icons=true&count_private=true"/>
+   </a>
+   <a href="https://github.com/romankh3/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/>
+   </a>
 </div>
+
 <div align='center'>
    <a href="https://www.linkedin.com/in/bích-vân-quan-5b773a214/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -44,17 +39,6 @@
    📫 How to reach me: <a href='mailto:quanbichvan1@gmail.com'>quanbichvan1@gmail.com</a>
 </div>
 
-
-
-
-<!---
-## 🤓 My Stats
-![quanbichvan2's Stats](https://github-readme-stats.vercel.app/api?username=quanbichvan2&theme=radical&show_icons=true&hide_border=false&count_private=true)
-![quanbichvan2's Streak](https://github-readme-streak-stats.herokuapp.com/?user=quanbichvan2&theme=radical&hide_border=false)
-
-quanbichvan2/quanbichvan2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ## 🛠 Skills
 #### I can using
 - **Tool:**
@@ -69,11 +53,11 @@ You can click the Preview link to take a look at your changes.
         + ASP.Net Core (Web Application; Backend)
         + Blazor Wasm / Razor Page (Web Application; Frontend)
     + JavaScript: 
-        + AngularJs / Vanila JavaScript (Web Application;)
+        + AngularJs / Vanilla JavaScript (Web Application;)
     + Typescript:
         + ReactJs (Web Application;)
     + Css:
-        + TailwindCss / Boostrap (Web Application;)
+        + TailwindCss / Bootstrap (Web Application;)
     + Java:
         + Java Swing / JavaFX (Desktop Application)
         + Spring Boot (Web Application; Backend)
@@ -82,7 +66,6 @@ You can click the Preview link to take a look at your changes.
     + MySQL
     + PostgreSQL
     + Azure SQL Database
-
 
 <!--
 **quanbichvan2/quanbichvan2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
