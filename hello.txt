@@ -5,7 +5,7 @@
 [![facebook](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yunbiguan/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bích-vân-quan-5b773a214/)
 
-**🌞 Quan Bích Vân - Aka: Yun**
+**🌞 Quan Bích Vân - Nickname: Yun**
 
 ## 🚀 About Me
 - My name is Quan Bich Van, but you can call me Yun.
@@ -21,6 +21,7 @@
 ## 🤓 My Stats
 ![quanbichvan2's Stats](https://github-readme-stats.vercel.app/api?username=quanbichvan2&theme=radical&show_icons=true&hide_border=false&count_private=true)
 ![quanbichvan2's Streak](https://github-readme-streak-stats.herokuapp.com/?user=quanbichvan2&theme=radical&hide_border=false)
+
 <!---
 quanbichvan2/quanbichvan2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
