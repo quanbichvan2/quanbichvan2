@@ -15,7 +15,7 @@
 
 <div align='center'>
    <kbd>
-       <img alt="Avatar" src="herobannerpotj.png" height="200" width="200"/>
+       <img alt="Avatar" src="herobannerpotj.png" height="200" width="200" style="object-fit: contain"/>
    </kbd>
 </div>
 <div align='center'>
