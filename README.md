@@ -24,16 +24,26 @@
 <img alt="Avatar" src="herobannerpotj.png" height="200" width="200"/>
 ![quanbichvan2's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quanbichvan2&theme=radical&show_icons=true&hide_border=false&layout=compact)
 </kbd>-
-<p align='center'>
+<div align='center'>
+    <kbd>
+        <img alt="Avatar" src="herobannerpotj.png" height="200" width="200"/>
+    </kbd>
+</div>
+<div align='center'>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quanbichvan2&theme=radical&show_icons=true&hide_border=false&layout=compact"/>
+</div>
+<div align='center'>
    <a href="https://www.linkedin.com/in/bích-vân-quan-5b773a214/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>>
-   <a href="https://www.facebook.com/yunbiguan/">
-       <img src="(https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)"/>
    </a>
-<p align='center'>
+   <a href="https://www.facebook.com/yunbiguan/">
+       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+   </a>
+</div>
+<div align='center'>
    📫 How to reach me: <a href='mailto:quanbichvan1@gmail.com'>quanbichvan1@gmail.com</a>
-</p>
+</div>
+
 
 
 
