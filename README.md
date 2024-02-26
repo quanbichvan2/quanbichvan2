@@ -1,10 +1,12 @@
 # Hi, I'm Yun! 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Frontend+Developer;Data+Analytics;Full-Stack+Developer)](https://git.io/typing-svg)
+
 ## 🔗 Links to my social profile
 [![facebook](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yunbiguan/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bích-vân-quan-5b773a214/)
 
 **🌞 Quan Bích Vân - Aka: Yun**
+
 ## 🚀 About Me
 - My name is Quan Bich Van, but you can call me Yun.
 - I'm a second-year student at FPT Polytechnic College in Ho Chi Minh City, Vietnam.
