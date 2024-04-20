@@ -9,7 +9,6 @@
 
 ## 🚀 About Me
 - My name is Quan Bich Van, but you can call me Yun.
-- I'm a second-year student at FPT Polytechnic College in Ho Chi Minh City, Vietnam.
 - I primarily work with C# and also have knowledge in Java.
 - I'm on the path to becoming a full-stack developer, gaining experience in C#, Java, and ReactJS along the way.
 
