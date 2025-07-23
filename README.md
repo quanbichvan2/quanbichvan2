@@ -50,7 +50,7 @@
     + PostgreSQL
     + Azure SQL Database
  
-##Thanks for visiting my profile!
+## Thanks for visiting my profile!
 
 ✨ "Code is like humor. When you have to explain it, it's bad." ✨
 <br/><br/>
