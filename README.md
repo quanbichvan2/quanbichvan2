@@ -51,22 +51,13 @@
     + Azure SQL Database
  
 ##Thanks for visiting my profile!
-  <!-- Typing Cat -->
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-</div>
 
 ✨ "Code is like humor. When you have to explain it, it's bad." ✨
 <br/><br/>
-  <!-- Heart Animation -->
-<img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="30"> Made with lots of ❤️ and ☕ <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="30">
-  <br/>
-⭐️ From Yun - Happy Coding! 🎯
-  <!-- Dancing Cat Thank You -->
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="50"> 
+⭐️ From Yun - Happy Coding! 🎯 
   <strong>Thank you for visiting!</strong> 
   <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="50">
 <br/><br/>
-  <!-- Cute Cat Wave -->
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100">
   <br/>
 <em>Hope to see you again soon! 🐾</em>
